@@ -49,19 +49,6 @@ h3{
     background-position: 0 -124px
 }
 
-
-#background_author {
-    color:#FF3A43;
-    font-size: 20px;
-    position: absolute;
-    bottom: 0;
-    right: 0;
-    z-index: 2;
-    margin: 15px;
-}
-
-
-
 .backgroundStart img{
     overflow: hidden;
     position: absolute; 
